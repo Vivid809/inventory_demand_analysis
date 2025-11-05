@@ -130,7 +130,7 @@ making it suitable for demand forecasting, inventory management, and operational
 ---
 
 ## 👨‍💻 Author
-**Mutahher Naseer
+**Mutahher Naseer**
 
 ---
 
