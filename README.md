@@ -3,16 +3,14 @@
 ### Data Analysis Project in Logistics & Supply Chain
 
 This project explores **demand forecasting optimization** using real-world product demand data.  
-The goal is to identify trends, analyze SKU and warehouse-level variability, and build a short-term forecasting model  
-to improve operational planning and inventory efficiency.
+The goal is to identify trends, analyze SKU and warehouse-level variability, and build a short-term forecasting model to improve operational planning and inventory efficiency.
 
 ---
 
 ## 📦 Project Overview
 
 In modern supply chains, accurate demand forecasting is critical for minimizing overstock, reducing stockouts,  
-and improving service levels. Using Python, this notebook performs a **data-driven exploration and forecast modeling**  
-of product demand trends across warehouses.
+and improving service levels. Using Python, this notebook performs a **data-driven exploration and forecast modeling** of product demand trends across warehouses.
 
 **Key Objectives:**
 1. Explore overall demand trends and seasonal patterns.  
