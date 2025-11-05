@@ -130,8 +130,11 @@ making it suitable for demand forecasting, inventory management, and operational
 ---
 
 ## 👨‍💻 Author
-**Muta N.**  
-Data Science Graduate | Python | Machine Learning | Business Analytics  
-📫 [LinkedIn Profile](https://www.linkedin.com/) *(optional placeholder — replace with your real one)*
+**Mutahher Naseer
 
 ---
+
+## 📫 Contact
+
+- **Email:** [mutahhar.you@gmail.com](mailto:mutahhar.you@gmail.com)  
+- **LinkedIn:** [Mutahher Naseer](https://www.linkedin.com/in/mutahher-naseer-30778b220)
